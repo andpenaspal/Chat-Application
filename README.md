@@ -9,6 +9,11 @@ This application consists of two different programs: Client and Server.
 
 The Chat Application is a command based Chat that allows multiple users to message each other.
 
+Stateful Server Application.
+
+## Technologies
+Java, TCP (Sockets)
+
 ## Requirements
 JAVA JRE 12 (or superior)
 
