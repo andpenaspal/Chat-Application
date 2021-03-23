@@ -120,5 +120,8 @@ Same steps until the "ChatRoom". For John to message Patrick: \[msg Patrick Hell
 | [msg] | [username] [message] | Sends a message to the specified user |
 | [\a] [brdc] | [message] | Sends a Broadcast message to all the users (admin) |
 
+## License
+MIT License. See "LICENSE" for further information.
+
 ## Contact Information
 G00376379@gmit.ie
